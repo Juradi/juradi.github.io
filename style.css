@@ -1,0 +1,145 @@
+.null{
+margin:auto;
+}
+.all{
+  margin: auto;
+  width: 970px;
+}
+.second{
+  margin-left: 225px;
+  margin-top: 60px;
+  width:540px;
+}
+section{
+  font-size:16px;
+}
+.semmi{
+  font-size:16px;
+  margin-left: 220px;
+  width: 680px;
+}
+.picture{
+  width:952px;
+  height:300px;
+  border-top: solid black;
+  background-image: url(http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+h1{
+  font-size: 52px;
+  font-family: Abril Fatface;
+  color: #222;
+  }
+h3{
+  font-size: 25px;
+  font-family: Abril Fatface;
+  color: #222;
+}
+.myname{
+  position: absolute;
+  left: 440px;
+  top: 160px;
+}
+.anakin{
+  position: absolute;
+  left: 440px;
+  top: 180px;
+}
+p{ 
+  font-family: merriweather;
+}
+blockquote {
+  padding-top:0px;
+  font-size: 42px;
+  background: grey;
+  margin:40px;
+  color: white;
+  padding-bottom:30px;
+  line-height: 60%;
+  padding-left:40px;
+}
+.ifind{
+  font-size: 50px;
+  background: grey;
+  margin-left:180px;
+  margin-right:150px;
+  color: white;
+  padding-top:20px;
+  line-height: 120%;
+}
+.together {
+  position:absolut;
+  width:710px;
+  margin-left:130px;
+  font-size:60px;
+}
+blockquote::before {
+  content:'\201C';
+  font-size: 140px;
+  position:relative;
+  right:45px;
+  bottom:20px;
+  top:40px;
+ 
+}
+.ifind::before {
+  content:'\201C';
+  font-size: 140px;
+  position:relative;
+  right:40px;
+  top:0px;
+}
+.harmadik{
+  font-family: Josefin Sans;
+  margin: auto;
+  margin-top: 20px;
+  width:510px;
+  font-size: 18px;
+}
+.negyedik{
+  margin: auto;
+  margin-top: 20px;
+  margin-left: 230px;
+  width:562px;
+  font-size: 12px;
+}
+p{
+  font-family: Josefin Sans;
+}
+.i{
+  padding-left:40px;
+  margin-bottom:0px;
+  margin-top:-70px;
+}
+.vonal{
+  border-top: solid #222;
+  width: 630px;
+  margin-left:390px;
+}
+h3{
+  font-family: Josefin Sans;
+}
+h4{
+  font-family: Josefin Sans;
+  padding: none;
+  font-weight:900;
+}
+.supreme{
+  font-family: Josefin Sans;
+  position: relative;
+  top:-20px;
+  font-size: 18px;
+}
+.enslaved{
+  font-size:18px;
+  line-height:10%;
+}
+.sith{
+  font-size:20px;
+  font-weight:800;
+  line-height:140%;
+}
+.t{
+  line-height:120%
+}
