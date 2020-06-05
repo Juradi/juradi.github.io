@@ -38,8 +38,12 @@ h3{
 }
 .myname{
   position: absolute;
-  left: 440px;
+  left: 443px;
   top: 160px;
+}
+.hi{
+  font-size:30px;
+  font-weight:800
 }
 .anakin{
   position: absolute;
